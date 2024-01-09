@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 tensorflow = "*"
-opencv-python = "*"
+opencv-contrib-python = {version = "4.6.0.66"}
 argparse = "*"
 graphviz = "*"
 pydot = "*"
